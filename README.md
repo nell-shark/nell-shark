@@ -1,1 +1,1 @@
-![screenshot](./logo.png)
+![screenshot](./logo.svg)
