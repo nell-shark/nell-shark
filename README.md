@@ -1,1 +1,1 @@
-![screenshot](./snippet.png)
+![screenshot](./logo.png)
