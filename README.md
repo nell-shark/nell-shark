@@ -7,7 +7,7 @@
 
 <br>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nell-shark&show_icons=true&rank_icon=github&custom_title=Github Stats" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=nell-shark&show_icons=true&rank_icon=github" />
 
 <br>
 
