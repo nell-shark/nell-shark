@@ -11,4 +11,9 @@
     <br>
     <br>
     <img src="./assets/logo-2.svg" alt="" />
+    <br>
+    <br>
+    <img width="100%" alt=""
+        src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=nell-shark" />
+    <br>
 </a>
