@@ -11,9 +11,10 @@
     <br>
     <br>
     <img src="./assets/logo-2.svg" alt="" />
+</a>
+
+<a align="center" href="https://www.codewars.com/users/nell-shark">
     <br>
     <br>
-    <img width="100%" alt=""
-        src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=nell-shark" />
-    <br>
+    <img width="100%" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=nell-shark" />
 </a>
