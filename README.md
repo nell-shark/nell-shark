@@ -1,6 +1,7 @@
 <img 
+  width="100%"
   src="./assets/logo-1.svg" 
-  alt="GitHub Logo" 
+  alt="First Logo" 
 />
 
 <a href="https://www.codewars.com/users/nell-shark">
@@ -19,6 +20,7 @@
 />
 
 <img 
+  width="100%"
   src="./assets/logo-2.svg" 
   alt="Secondary Logo" 
 />
